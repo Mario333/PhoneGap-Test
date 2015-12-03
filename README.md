@@ -1,6 +1,6 @@
 # La meva primera APP
 
-
+Test Bàsic de PhoneGap
 29/11/2015
 
 02/12/2015
