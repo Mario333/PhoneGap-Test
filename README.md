@@ -1,4 +1,4 @@
-# PhoneGap-Test
+# LA MAVA PRIMERA APP
 
 Test Bàsic de PhoneGap
 29/11/2015
