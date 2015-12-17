@@ -2,22 +2,22 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.projecte_info_4t_Mario333"
-        versionCode = "22" 
-        version     = "1.0.22" >
+        id          = "cat.numancia.SistemaSolar"
+        versionCode = "24" 
+        version     = "1.0.24" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Projecte 4t INFO 2015 2016</Mario333>
+    <name>El Sistema Solar</name>
 
    <description>
-       Aplicació phonegap del salumnes de 4t info Curs 2015 2016
+       Aplicació phonegap del salumnes de 4t info Curs 2015 2016. El Sistema Solar.
     </description>
 
-    <author href="https://numancia.cat/intranet" email="msanchez26@iesnumancia.cat">
-       Sergi i Mario
+    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
+       Sergi Curtu
     </author>
 
 	<content src="index.html"/>
